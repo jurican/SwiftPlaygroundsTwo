@@ -21,3 +21,21 @@ if gradeA == true
 }else{
     print("I'm not so sure about coding in Swift")
 }
+//Part 5.1
+var onE = 6
+if onE >= 7
+{
+    print(true)
+}else{
+    print(false)
+}
+//Part 5.2
+var month = "January"
+if month == "February"
+{
+    print("Happy")
+}else{
+    print("not yet")
+(false)
+}
+
